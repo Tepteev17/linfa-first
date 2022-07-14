@@ -310,7 +310,7 @@ footer{
 }
 .head{
     color: #ffffff;
-    font-size: 7vh;
+    font-size: 5vh;
     font-family: 'Montserrat',Arial,sans-serif;
     line-height: 1.4;
     font-weight: 700;
@@ -645,6 +645,9 @@ footer{
 @media(max-width:2000px){
     .wrapper-beige{
         padding-top:400px;
+    }
+    .head{
+        font-size: 7vh;
     }
 }
 @media(max-width:1920px){
