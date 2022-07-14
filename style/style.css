@@ -395,7 +395,7 @@ footer{
     display: flex;
 }
 .price-wrap {
-    margin: 15px 0;
+    margin: 30px 0;
     display: flex;
     justify-content: space-between;
     width: 50%;
@@ -647,7 +647,7 @@ footer{
         padding-top:400px;
     }
     .head{
-        font-size: 7vh;
+        font-size: 65px;
     }
 }
 @media(max-width:1920px){
